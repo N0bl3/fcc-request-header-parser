@@ -6,6 +6,7 @@
   "repository": "",
   "author": "Alexandre Noble",
   "dependencies": {
-    "express": "~3.2.4"
-    }
+    "express": "~3.2.4",
+    "express-useragent": "^0.2.4"
+  }
 }
